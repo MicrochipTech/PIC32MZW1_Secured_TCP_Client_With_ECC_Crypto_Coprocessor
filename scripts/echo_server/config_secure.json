@@ -5,5 +5,5 @@
     "server-port": "9000",
     "server-certificate-location": "./certs/server.pem",
     "server-key-location": "./certs/server.key",
-    "client-certificate-location": "./certs/01238A91E221DB8601.cer"
+    "client-certificate-location": "./certs/client.cer"
 }

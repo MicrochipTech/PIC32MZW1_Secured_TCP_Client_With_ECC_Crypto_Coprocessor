@@ -1,5 +1,5 @@
 
-# Secured TCP Client with ECC608 TNG crypto coprocessor 
+# Secured TCP Client with ECC608 TNG Crypto Coprocessor 
 
 <img src="images/IoT-Made-Easy-Logo.png" width=100>
 
